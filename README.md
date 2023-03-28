@@ -2,4 +2,4 @@
 Social media app by Ben
 
 # Demo
-https://social-media-app-rbio.onrender.com/home
+https://social-media-app-rbio.onrender.com
